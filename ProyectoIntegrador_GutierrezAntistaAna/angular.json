@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css" 
-              "ProyectoIntegrador_GutierrezAntistaAna/node_modules/bootstrap-5.0.1-dist/css/bootstrap.css"
+              "ProyectoIntegrador_GutierrezAntistaAna/ProyectoIntegrador_GutierrezAntistaAna/node_modules/bootstrap-5.0.1-dist/css/bootstrap.css"
             ],
             "scripts": [
-              "ProyectoIntegrador_GutierrezAntistaAna/node_modules/bootstrap-5.0.1-dist/js/bootstrap.js"
+              "ProyectoIntegrador_GutierrezAntistaAna/ProyectoIntegrador_GutierrezAntistaAna/node_modules/bootstrap-5.0.1-dist/js/bootstrap.js"
             ]
           },
           "configurations": {
