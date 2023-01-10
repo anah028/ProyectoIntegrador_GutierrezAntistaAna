@@ -25,10 +25,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css" 
-              
+              "src/styles.css" ,
+              "ProyectoIntegrador_GutierrezAntistaAna/node_modules/bootstrap/css/bootstrap.css"
             ],
             "scripts": [
+              "ProyectoIntegrador_GutierrezAntistaAna/node_modules/bootstrap/js/bootstrap.js"
               
             ]
           },
